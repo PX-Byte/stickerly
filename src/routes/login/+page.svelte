@@ -1,6 +1,6 @@
 <script type="ts">
 	import { TGClient } from '$lib/client/TGClient';
-	import PromptInput from '../components/PromptInput.svelte';
+	import PromptInput from '../../components/PromptInput.svelte';
 	import { isBrowser } from 'telegram/platform';
 
 	// const promises = {
