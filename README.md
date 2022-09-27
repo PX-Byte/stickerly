@@ -8,6 +8,7 @@ Telegram sticker organizer
 			 alt="Gitmoji">
 	</a>
     <img alt="node-current" src="https://img.shields.io/node/v/@sveltejs/kit?logo=svelte.svg">
+    <a href="https://wakatime.com/badge/github/PX-Byte/stickerly"><img src="https://wakatime.com/badge/github/PX-Byte/stickerly.svg" alt="wakatime"></a>
 </p>
 
 # Developing
